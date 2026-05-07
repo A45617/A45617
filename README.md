@@ -6,9 +6,6 @@
 
 *Building practical solutions, one line of code at a time.*
 
-[![GitHub followers](https://img.shields.io/github/followers/A45617?label=Follow&style=social)](https://github.com/A45617)
-[![Profile Views](https://komarev.com/ghpvc/?username=A45617&color=blueviolet&style=flat)](https://github.com/A45617)
-
 </div>
 
 ---
