@@ -60,18 +60,6 @@ I'm passionate about creating clean, functional web applications and continuousl
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anjelyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A45617&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A45617&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
