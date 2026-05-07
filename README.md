@@ -6,6 +6,7 @@
 
 *Building practical solutions, one line of code at a time.*
 
+<div>
 ---
 
 ## 🙋‍♀️ About Me
